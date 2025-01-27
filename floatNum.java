@@ -1,4 +1,4 @@
-public class Main{
+public class floatNum{
     public static void main(String args[]){
         float num1 = 3.14F;
         float num2 = 2.55F;
