@@ -1,4 +1,4 @@
-public class Main{
+public class string_concat{
     public static void main(String args[]){
         String name = "saurabh";
         String surname = "dubey";
