@@ -16,6 +16,7 @@ public class factorial {
            number --;
         }
         System.out.println(facto);
+        num.close();
     }
 }
 

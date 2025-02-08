@@ -13,5 +13,6 @@ public class FACT {
 
         }
         System.out.print("The factorial of the number is : " + facto);
+        num.close();
     }
 }
