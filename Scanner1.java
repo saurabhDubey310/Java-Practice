@@ -14,5 +14,7 @@ public class Scanner1 {
         int mul = num1*num2;
 
         System.out.print("multiplication of number1 and number2 : " + mul);
+        number1.close();
+        number2.close();
     }
 }
