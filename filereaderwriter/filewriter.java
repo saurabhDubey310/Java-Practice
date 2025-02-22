@@ -1,3 +1,4 @@
+package filereaderwriter;
 import java.io.FileWriter;
 
 public class filewriter{
